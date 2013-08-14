@@ -90,4 +90,5 @@ Finished in 0.00997 seconds
 - http://www.blackwasp.co.uk/Strategy.aspx
 - http://www.blackwasp.co.uk/GofPatterns.aspx
 - http://en.wikipedia.org/wiki/Ten-pin_bowling
+- http://en.wikipedia.org/wiki/Ruby_(programming_language)
 - http://rspec.info
