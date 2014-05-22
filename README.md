@@ -24,13 +24,11 @@ Below, is a simplified description of the scoring rules.  For details, see http:
 
 
 # Spare
-
 7 3 -> Frame 1: 15
 5 0 -> Frame 2: 15 + 5 -> 20
 
 
 # Strike
-
 10 0 -> Frame 1: 18
 5 3 -> Frame 2: 18 + 8 -> 26
 ```
